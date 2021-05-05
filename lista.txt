@@ -1,27 +1,10 @@
-aut1bh0102.log
-aut1bh0101.log
-aut1aj0101.log
-aut1aj0102.log
-aut1aj0103.log
-aut1aj0104.log
-aut1bh0111.log
-aut1bh0112.log
-aut1bh0113.log
-aut1ci0101.log
-aut1ci0102.log
-aut1ci0103.log
-aut1ci0104.log
-aut1cj0101.log
-aut1cj0102.log
-aut1cj0103.log
-aut1cj0104.log
-aut1di0101.log
-aut1di0102.log
-aut1di0103.log
-aut1di0104.log
-aut1pr0101.log
-aut1pr0102.log
-aut1pr0103.log
-aut1pr0104.log
-conexoesATMs.log
-totalATMs.log
+imagem.png
+texto.txt
+documento.docx
+compatado.zip
+README.md
+script.sh
+lote.bat
+duas palavras.pdf
+até acentuada.ppt
+
