@@ -1,6 +1,8 @@
-package br.lucascunha.leitor.util;
+package br.lucascunha.arquivos.teste;
 
 import java.io.IOException;
+
+import br.lucascunha.arquivos.model.Arquivo;
 
 public class TesteLeitura {
 

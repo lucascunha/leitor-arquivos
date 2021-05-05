@@ -1,4 +1,4 @@
-package br.lucascunha.leitor.util;
+package br.lucascunha.arquivos.model;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
